@@ -110,12 +110,12 @@
 					<div.header
 						<div.filter
 							<div.right
-								<label:Sorty by
+								<label:Sort by
 								<span.value.w-choices
 									<ul.sort-by
-										<li.name.current:by name
-										<li.expenses:by expense
-										<li.deviation:by deviation
+										<li.name.current:name
+										<li.expenses:expense
+										<li.deviation:deviation
 										<li.empty
 							<div.left
 								<label:Filter by
